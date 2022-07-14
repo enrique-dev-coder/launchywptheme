@@ -8,3 +8,7 @@ Version: 1.0.0
 Text Domain: Launchy
 License: GNU v3 or Later
 **/
+
+body {
+  background-color: black;
+}
